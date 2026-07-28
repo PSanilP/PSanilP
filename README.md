@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PSanilP
-- 👀 I’m interested in ... keyvalue pairs, business analysis
-- 🌱 I’m currently learning ...JavaScript
+- 👀 I’m interested in ... Metadata driven systems
+- 🌱 I’m currently learning ...Finance
 - 💞️ I’m looking to collaborate on ...Startups
 - 📫 How to reach me ...email
 
